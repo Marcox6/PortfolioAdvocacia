@@ -6,7 +6,9 @@
 main {
     padding: 50px;
 }
-
+#main > img {
+    display: none;
+}
 /*SECTION2*/
 .finance {
     margin: auto;

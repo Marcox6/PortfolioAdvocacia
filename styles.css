@@ -12,7 +12,7 @@ main {
     color: white;
 }
 button {
-    background-color: rgb(167, 167, 47);
+    background-color: rgb(146, 108, 25);
     padding: 10px;
     color: white;
     border: none;
@@ -25,7 +25,7 @@ button {
 .advogado {
     border-radius: 100%;
     margin: auto;
-    padding: 10px 0;
+    padding: 20px 0;
 }
 .citação {
     text-align: center;
@@ -35,11 +35,17 @@ button {
     text-align: center;
     padding: 10px 0;
 }
+q {
+    font-style: italic;
+}
 
 /*SECTION2*/
 .s002 {
     text-align: center;
     padding: 20px 0;
+}
+#finance {
+    padding: 10px 0;
 }
 .finance {
     background-color: rgb(20, 20, 20);
