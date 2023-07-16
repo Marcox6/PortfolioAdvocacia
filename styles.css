@@ -1,6 +1,65 @@
 @charset "UTF-8";
 
 /*GERAL*/
+body{
+    margin: 0;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 
 /*MAIN*/
+main {
+    background-color: rgb(20, 20, 20);
+    color: white;
+}
+button {
+    background-color: rgb(167, 167, 47);
+    padding: 10px;
+    color: white;
+    border: none;
+}
 
+/*SECTION1*/
+.s001 {
+    padding: 20px 0;
+}
+.advogado {
+    border-radius: 100%;
+    margin: auto;
+    padding: 10px 0;
+}
+.citação {
+    text-align: center;
+    display: grid;
+}
+.balança {
+    text-align: center;
+    padding: 10px 0;
+}
+
+/*SECTION2*/
+.s002 {
+    text-align: center;
+    padding: 20px 0;
+}
+.finance {
+    background-color: rgb(20, 20, 20);
+    max-width: 280px;
+    color: white;
+    padding: 10px;
+}
+
+/*SECTION3*/
+.s003 {
+    text-align: center;
+    margin: auto;
+    max-width: 500px;
+    padding: 20px 0;
+}
+
+/*FOOTER*/
+footer {
+    text-align: center;
+    background-color: rgb(20, 20, 20);
+    color: white;
+    padding: 20px;
+}

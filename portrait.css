@@ -3,3 +3,13 @@
 /*GERAL*/
 
 /*MAIN*/
+main {
+    padding: 50px;
+}
+
+/*SECTION2*/
+.finance {
+    margin: auto;
+    display: inline-grid;
+    row-gap: 10px;
+}

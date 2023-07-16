@@ -1,5 +1,25 @@
 @charset "utf-8";
 
 /*GERAL*/
+h1 {
+    font-size: 50px;
+}
 
 /*MAIN*/
+main {
+    padding: 100px;
+}
+/*SECTION*/
+.s001 {
+    display: flex;
+    justify-content: space-evenly;
+}
+q{
+    max-width: 300px;
+}
+
+/*SECTION2*/
+#finance {
+    display: flex;
+    justify-content: space-evenly;
+}
